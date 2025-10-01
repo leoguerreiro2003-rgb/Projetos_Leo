@@ -29,14 +29,15 @@ Uma calculadora web simples desenvolvida com **HTML, CSS e JavaScript**. Este pr
 
 ### Como Usar
 
-## Clona o repositório:
+Podes aceder através do link abaixo:
 
-```bash
-git clone https://leoguerreiro2003-rgb.github.io/Projetos_Leo/
+ https://leoguerreiro2003-rgb.github.io/Projetos_Leo/
 
-# ou
+## Versão do projeto
 
-## Simplesmente acede pelo link acima ^ .
+1.0
+
+
 
 
 ### Eng
@@ -68,12 +69,14 @@ A simple web calculator developed with HTML, CSS, and JavaScript. This project s
 
 ##How to Use
 
-Clone the repository:
+You can access it through the link below:
 
-bash
+ https://leoguerreiro2003-rgb.github.io/Projetos_Leo
 
-git clone https://leoguerreiro2003-rgb.github.io/Projetos_Leo
 
-## or
+## Project version
 
-simply access it through the link above.
+1.00
+
+
+
