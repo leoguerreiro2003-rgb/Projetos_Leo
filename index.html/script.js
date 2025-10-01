@@ -18,4 +18,9 @@ function inverte() {
 
 function calcular() {
     const display = document.querySelector('.display');
+    try {
+        display.value = eval(display.value); // ⚠️ para projetos reais seria melhor usar outra abordagem que não eval
+    } catch {
+        display.value = 'Erro';
+    }
 }
